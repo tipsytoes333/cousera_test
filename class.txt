@@ -1,1 +1,1 @@
-1 Crim, 2 Ora, 3 Blu, 4 Cya, 5 Yellie, 6 Char, 7 Kha, 8 Cor, 9 Sil, 10 Fuch, 11 Pur, 12 Brow, 13 Ree
+1 Crimson, 2 Orange, 3 Blue, 4 Cyan, 5 Yellow, 6 Charcoal, 7 Khaki, 8 Coral, 9 Silver, 10 Fuchia, 11 Purple, 12 Brown, 13 Red
